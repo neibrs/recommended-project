@@ -4,11 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
-    "content-hash": "b27a7613ea11043f80bb5127ac189df7",
-=======
     "content-hash": "8632412351f8f44cdc6b1c45468da497",
->>>>>>> hub/9.1.x
     "packages": [
         {
             "name": "asm89/stack-cors",
